@@ -20,5 +20,6 @@ Equatable (for better comparison) 🧮
 Clean Architecture 🧱
 
 ## ScreenShots and Videos
+<!-- Uploading "Screenshot 1446-10-28 at 3.30.49 AM.png"... -->
 
 
