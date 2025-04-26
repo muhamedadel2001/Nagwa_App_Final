@@ -1,6 +1,6 @@
 # 📚 nagwa_app
 
-A clean and responsive Flutter application that displays a list of books fetched from an API. This app was developed as part of an interview assignment, showcasing best practices in Flutter development using Clean Architecture, Cubit, Elio, and more.
+A clean and responsive Flutter application that displays a list of books fetched from an API. This app was developed as part of an interview assignment, showcasing best practices in Flutter development using Clean Architecture, Cubit, and more.
 
 ---
 
