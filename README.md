@@ -46,5 +46,11 @@ Phone
 [Watch the demo on Drive](https://drive.google.com/file/d/1Wf20GLaCsYRgI8oBCflCctsnTbg6KLBA/view?usp=sharing)
 
 
+### Caching data from search result feature (no internet)
+### 🎥  Demo
+
+[Watch the demo on Drive](https://drive.google.com/file/d/1TCVBHUtbwczmRMwdYAJkEbGqPon9XOHl/view?usp=sharing)
+
+
 
 
