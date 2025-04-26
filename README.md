@@ -20,5 +20,6 @@ Equatable (for better comparison) 🧮
 Clean Architecture 🧱
 
 ## ScreenShots and Videos
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/ed2be1ab-b4db-4206-8770-a13ac6b59428" />
 
 
