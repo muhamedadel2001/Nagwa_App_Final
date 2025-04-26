@@ -20,7 +20,10 @@ Equatable (for better comparison) 🧮
 Clean Architecture 🧱
 
 ## Screenshots and Videos
-###Responsive
+
+##Responsive
+
+
 Phone
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/43cf61f2-e070-4ca4-9f6b-90a285aa0210" />
 Ipad
